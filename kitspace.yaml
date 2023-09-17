@@ -1,0 +1,9 @@
+bom: hw/sch_pcb/EEPROM02.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/EEPROM02.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/EEPROM02
+summary: 'Universal EEPROM module for communicating via the I2C interface in package
+  types: SO8, TSSOP8, MSOP8.'

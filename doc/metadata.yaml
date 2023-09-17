@@ -1,0 +1,17 @@
+description: 'Universal EEPROM module for communicating via the I2C interface in package
+  types: SO8, TSSOP8, MSOP8.'
+github_branch: EEPROM02A
+github_description: 'Universal EEPROM module for communicating via the I2C interface
+  in package types: SO8, TSSOP8, MSOP8.'
+github_repo: EEPROM02
+github_url: https://github.com/mlab-modules/EEPROM02
+homepage: false
+images:
+- doc/img/EEPROM02A_bottom_big.jpg
+- doc/img/EEPROM02A_top_big.jpg
+- doc/img/EEPROM02A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: EEPROM02
+updated: '2023-09-17T11:41:08.136888+00:00'
