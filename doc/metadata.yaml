@@ -7,11 +7,11 @@ github_repo: EEPROM02
 github_url: https://github.com/mlab-modules/EEPROM02
 homepage: false
 images:
-- doc/img/EEPROM02A_bottom_big.jpg
 - doc/img/EEPROM02A_top_big.jpg
+- doc/img/EEPROM02A_bottom_big.jpg
 - doc/img/EEPROM02A_QRcode.png
 mark: 50
 status: 0
 tags: []
 title: EEPROM02
-updated: '2023-09-17T11:52:58.219213+00:00'
+updated: '2023-10-08T15:13:47.549928+00:00'
